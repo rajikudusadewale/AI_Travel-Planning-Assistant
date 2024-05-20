@@ -48,5 +48,6 @@ Looking forward to expanding this project further and exploring more ways AI can
 
 🔗 **[Link to Project Repository or Demo]**
 
+Note: The notebook won't open on GitHub. Download it if you want to use it.
 ---
 
