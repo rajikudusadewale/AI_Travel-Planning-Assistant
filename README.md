@@ -46,7 +46,7 @@ Looking forward to expanding this project further and exploring more ways AI can
 
 ---
 
-🔗 **[Link to Project Repository or Demo]**
+🔗 **[Link to Project Repository](https://github.com/rajikudusadewale/AI_Travel-Planning-Assistant/blob/main/travel_assist.ipynb)**
 
 Note: The notebook won't open on GitHub. Download it if you want to use it.
 ---
